@@ -19,7 +19,7 @@
 
 - [@velocitAa](ссылка на профиль)
 
-Английский:
+[ENG]
 
 # Repository for Autoencoder and Variational Autoencoder
 
